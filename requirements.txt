@@ -1,0 +1,17 @@
+langchain 
+langchain
+ollama
+langchain-community 
+faiss-cpu
+langchain_ollama 
+langgraph
+pypdf
+langdetect
+TTS
+gtts
+transformers
+torch
+langdetect
+deep-translator
+transformers
+langdetect
