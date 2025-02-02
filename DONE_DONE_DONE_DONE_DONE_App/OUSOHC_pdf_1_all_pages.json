@@ -5,7 +5,7 @@
         "Description": {
             "Features": [
                 "lounge set Base from African teak wood, polyurethane painted",
-                "Inner chassis from Plywood 18 mm upholstered with foam density 28 kg/r covered with Standard Artificial Leather Fabric"
+                "Inner chassis from Plywood 18 mm upholstered with foam density 28 kg/m2 covered with Standard Artificial Leather Fabric"
             ]
         },
         "Finishes": [
@@ -13,11 +13,6 @@
             "Metal"
         ],
         "Dimensions": [
-            {
-                "CODE": "OUSOLSHA",
-                "LXW": null,
-                "H": null
-            }
         ],
         "Image Paths": [
             "DONE_DONE_DONE_DONE_DONE_App/final_back/OUSOHC_pdf_1/OUSOHC_pdf_1_page1_image0001.png"
