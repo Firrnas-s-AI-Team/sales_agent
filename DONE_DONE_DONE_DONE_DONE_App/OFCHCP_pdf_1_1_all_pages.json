@@ -1,13 +1,14 @@
 [
     {
-        "Product Name": "NEW CAPO EXECUTIVE HIGH BACK CHAIR",
+        "Product Name": "CAPO EXECUTIVE HIGH BACK CHAIR",
         "Second Name": null,
         "Description": {
             "Features": [
                 "Executive High Back Ergonomic chair with Multi-Functional Mechanism",
-                "360 swivel chair on aluminum base with braked rubber casters",
+                "360' swivel chair on aluminum base with braked rubber casters",
                 "Hydraulic height adjustment",
-                "Tilting mechanism: Fixed upholstered armrest",
+                "Tilting mechanism",
+                "Fixed upholstered armrest",
                 "Seat, armrest and back fully upholstered"
             ]
         },
@@ -23,14 +24,15 @@
         ]
     },
     {
-        "Product Name": "NEW CAPO OPERATIVE LOW BACK CHAIR",
+        "Product Name": "CAPO OPERATIVE LOW BACK CHAIR",
         "Second Name": null,
         "Description": {
             "Features": [
                 "Executive High Back Ergonomic chair with Multi-Functional Mechanism",
-                "360\" swivel chair on aluminum base with braked rubber casters",
+                "360' swivel chair on aluminum base with braked rubber casters",
                 "Hydraulic height adjustment",
-                "Tilting mechanism: Fixed upholstered armrest",
+                "Tilting mechanism",
+                "Fixed upholstered armrest",
                 "Seat, armrest and back fully upholstered"
             ]
         },
