@@ -1,0 +1,67 @@
+[
+    {
+        "Product Name": "BACKGROUND OPERATIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative lounge armchair",
+                "Based on metal structure and legs in electrostatic powder coated paint (Available with Nickel Chrome legs)",
+                "Chair fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH",
+            "80 X 72 X 81 CM"
+        ],
+        "Image Paths": []
+    },
+    {
+        "Product Name": "BACKGROUND OPERATIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative lounge two seater sofa.",
+                "Based on metal structure and legs in electrostatic powder coated paint (Available with Nickel Chrome legs)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH",
+            "140 X 72 X 81 CM"
+        ],
+        "Image Paths": []
+    },
+    {
+        "Product Name": "BACKGROUND OPERATIVE THREE SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative lounge three seater sofa",
+                "Based on metal structure and legs in electrostatic powder coated paint: (Available with Nickel Chrome legs)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 200 X 72 X 81 CM"
+        ],
+        "Image Paths": []
+    }
+]

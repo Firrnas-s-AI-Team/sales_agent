@@ -1,0 +1,67 @@
+[
+    {
+        "Product Name": "BLADE EXECUTIVE ARMCHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive Armchair Based on metal structure and legs in electrostatic powder coated finish ar water-jet cut finish",
+                "Available with three seating: Seat; back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 127x93x74 CM"
+        ],
+        "Image Paths": []
+    },
+    {
+        "Product Name": "BLADE EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge two seater sofa",
+                "Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish",
+                "Available with three seating options",
+                "Seat, back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natura leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 200x93x74 CM"
+        ],
+        "Image Paths": []
+    },
+    {
+        "Product Name": "BLADE EXECUTIVE L-SHAPE SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa",
+                "Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish",
+                "Seat; back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 195x95x74 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOBL_pdf_1/OFSOBL_pdf_1_page3_image0001.png"
+        ]
+    }
+]

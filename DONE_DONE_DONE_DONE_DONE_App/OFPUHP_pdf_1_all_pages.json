@@ -1,0 +1,74 @@
+[
+    {
+        "Product Name": "HIP BREAK-OUT POUF",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative break-out pouf",
+                "Based on electrostatic painted metal structure",
+                "Pouf fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXW: 50x50 CM",
+            "H: 45 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFPUHP_pdf_1/OFPUHP_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFPUHP_pdf_1/OFPUHP_pdf_1_page1_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "HIP BREAK-OUT POUF",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative break-out pouf",
+                "Based on electrostatic painted metal structure",
+                "Pouf fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWxH",
+            "65x50x45 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFPUHP_pdf_1/OFPUHP_pdf_1_page2_image0003.png"
+        ]
+    },
+    {
+        "Product Name": "HIP BREAK-OUT POUF",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative break-out pouf",
+                "Based on electrostatic painted metal structure",
+                "Pouf fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWxH 100x50x45 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFPUHP_pdf_1/OFPUHP_pdf_1_page3_image0004.png"
+        ]
+    }
+]

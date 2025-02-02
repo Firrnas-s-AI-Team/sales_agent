@@ -1,0 +1,51 @@
+[
+    {
+        "Product Name": "SORRANTO EXECUTIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge armchair",
+                "Based on electrostatic painted metal structure and legs in electrostatic powder coated finish",
+                "Formed of angular backrest Armrest and back covered with natural leather",
+                "Seat and back cushion fully upholstered in fabric"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXW: 77x79 CM",
+            "H: 76 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOSR_pdf_1/OFSOSR_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOSR_pdf_1/OFSOSR_pdf_1_page1_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "SORRANTO EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge two seater sofa",
+                "Based on electrostatic painted metal structure and in electrostatic powder coated finish",
+                "Formed of angular backrest",
+                "Armrest and back covered with natural leather",
+                "Seat and back cushion fully upholstered in fabric legs"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 163x74x78 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOSR_pdf_1/OFSOSR_pdf_1_page2_image0003.png"
+        ]
+    }
+]

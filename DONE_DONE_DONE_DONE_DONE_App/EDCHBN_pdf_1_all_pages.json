@@ -1,0 +1,28 @@
+[
+    {
+        "Product Name": "BOND MULTI-PURPOSE CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Stackable operative chair",
+                "Injection moulded aluminum frame",
+                "Translucent mesh seat and back",
+                "Available with braked rubber casters (Optional)",
+                "Available with row connector (Optional)",
+                "Available with writing pad (Optional)",
+                "Available with fixed armrest (Optional)",
+                "Available with clip-on fabric cover for seat and back (Optional)"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/EDCHBN_pdf_1/EDCHBN_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/EDCHBN_pdf_1/EDCHBN_pdf_1_page1_image0002.png"
+        ]
+    }
+]

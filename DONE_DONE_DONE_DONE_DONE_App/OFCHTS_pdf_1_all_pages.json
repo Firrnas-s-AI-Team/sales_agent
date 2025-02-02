@@ -1,0 +1,53 @@
+[
+    {
+        "Product Name": "TESLA EXECUTIVE MESH HIGH BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic chair with multi-functional mechanism",
+                "3605 swivel chair on plastic base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Tilting mesh back",
+                "Adjustable head-rest",
+                "Adjustable lumbar support",
+                "Height adjustable armrest",
+                "Seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHTS_pdf_1/OFCHTS_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHTS_pdf_1/OFCHTS_pdf_1_page1_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "TESLA OPERATIVE MESH LOW BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative ergonomic chair with multi-functional mechanism",
+                "3605 swivel chair on plastic base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Tilting mesh back",
+                "Adjustable lumbar support",
+                "Height adjustable armrest",
+                "Back and seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHTS_pdf_1/OFCHTS_pdf_1_page2_image0003.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHTS_pdf_1/OFCHTS_pdf_1_page2_image0004.png"
+        ]
+    }
+]

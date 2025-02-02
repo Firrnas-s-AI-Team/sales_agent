@@ -1,0 +1,103 @@
+[
+    {
+        "Product Name": "OASIS OPERATIVE LOW BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative ergonomic low back chair with multi-functional mechanism",
+                "Curved steel structure covered by knitted fabric and lumber support",
+                "360 swivel chair on aluminum base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Weight adjusted tilting_ Fixed padded metal armrests",
+                "Seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page1_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "OASIS EXECUTIVE HIGH BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic medium back chair with multi-functional mechanism",
+                "Curved steel structure covered by knitted fabric and lumber support",
+                "3605 swivel chair on aluminum base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Weight adjusted tilting",
+                "Fixed padded metal armrests",
+                "Seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page2_image0003.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page2_image0004.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page2_image0005.png"
+        ]
+    },
+    {
+        "Product Name": "OASIS EXECUTIVE HIGH BACK LOUNGE CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative ergonomic high back chair with multi-functional mechanism",
+                "Curved steel structure covered by knitted fabric and lumber support",
+                "360 swivel chair on aluminum base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Weight adjusted tilting",
+                "Fixed padded metal armrests",
+                "Seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page3_image0006.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page3_image0007.png"
+        ]
+    },
+    {
+        "Product Name": "OASIS OPERATIVE STOOL",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative ergonomic low back stool",
+                "Multi-functional mechanism",
+                "Curved steel structure covered by knitted fabric and lumber support",
+                "3605 swivel chair on aluminum base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Weight adjusted tilting",
+                "Fixed padded metal armrests",
+                "Seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page4_image0008.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHOS_pdf_1/OFCHOS_pdf_1_page4_image0009.png"
+        ]
+    }
+]
