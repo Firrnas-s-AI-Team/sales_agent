@@ -5,7 +5,7 @@
         "Description": {
             "Features": [
                 "Sofa 2 seats Chassis from steel aluminum profile powder coated",
-                "Seat bottom from plywood IZmm",
+                "Seat bottom from plywood 12 mm",
                 "Seat & back from foam density 28 kg/m^3 covered with Standard artificial leather",
                 "Fabric Back with rattan rope"
             ]
@@ -18,8 +18,7 @@
         ],
         "Dimensions": [
             {
-                "CODE": "OUSOZSM2",
-                "LXWXH": "135X 78 X 83 CM"
+                "135 X 78 X 83 CM"
             }
         ],
         "Image Paths": [
