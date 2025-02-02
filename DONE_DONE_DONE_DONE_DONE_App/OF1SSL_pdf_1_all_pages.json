@@ -1,6 +1,6 @@
 [
     {
-        "Product Name": "SPOTLICHT ARM CHAIR",
+        "Product Name": "SPOTLIGHT ARM CHAIR",
         "Second Name": null,
         "Description": {
             "Features": [
@@ -19,8 +19,7 @@
             "Metal"
         ],
         "Dimensions": [
-            "LXW: 117x85 CM",
-            "H: 105 CM"
+            "117 x 85 x 105 CM"
         ],
         "Image Paths": [
             "DONE_DONE_DONE_DONE_DONE_App/final_back/OF1SSL_pdf_1/OF1SSL_pdf_1_page1_image0001.png"
