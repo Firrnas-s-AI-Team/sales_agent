@@ -4,8 +4,8 @@
         "Second Name": null,
         "Description": {
             "Features": [
-                "A break-out modular seating that is made of a wooden frame and based on electrostatic painted metal structure",
-                "The plush foam inserts and the curve-shaped backrest design combine comfort with modernity"
+                "A break-out modular seating that is made of a wooden frame and based on electrostatic painted metal structure and legs.",
+                "The plush foam inserts and the curve-shaped backrest design combine comfort with modernity>"
             ]
         },
         "Finishes": [
@@ -15,7 +15,7 @@
             "Metal"
         ],
         "Dimensions": [
-            "LXWXH 75 X 74X 77 CM"
+            "75 X 74 X 77 CM"
         ],
         "Image Paths": [
             "DONE_DONE_DONE_DONE_DONE_App/final_back/OF1SJZ_pdf_1/OF1SJZ_pdf_1_page1_image0001.png",
