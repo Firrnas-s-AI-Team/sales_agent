@@ -2,7 +2,9 @@
     {
         "Product Name": "TRAIN CABINETS DOUBLE",
         "Second Name": [
-            "Metal Body Wooden Doors"
+            "Metal Body Wooden Doors",
+            "Metal Body & Doors Wooden top",
+            "Metal Body & Doors"
         ],
         "Description": {
             "Features": [
@@ -13,7 +15,8 @@
             ]
         },
         "Finishes": [
-            "Laminate Metal"
+            "Laminate",
+            "Metal"
         ],
         "Dimensions": [
             "94x45x83 CM",
@@ -30,7 +33,8 @@
         "Product Name": "TRAIN CABINETS SINGLE",
         "Second Name": [
             "Metal Body & Doors",
-            "Metal Body Wooden Doors"
+            "Metal Body Wooden Doors",
+            "Metal Body & Doors Wooden Top"
         ],
         "Description": {
             "Features": [
@@ -41,7 +45,8 @@
             ]
         },
         "Finishes": [
-            "Laminate Metal"
+            "Laminate",
+            "Metal"
         ],
         "Dimensions": [
             "49x45x83 CM",
@@ -67,10 +72,11 @@
             ]
         },
         "Finishes": [
-            "Laminate Metal"
+            "Laminate",
+            "Metal"
         ],
         "Dimensions": [
-            "STANDARD DIMENSIONS: LXWXH 42x49x83 CM",
+            "42x49x83 CM",
             "42x49x121 CM"
         ],
         "Image Paths": [
@@ -80,7 +86,9 @@
     {
         "Product Name": "TRAIN DRAWER UNITS",
         "Second Name": [
-            "Metal Body Wooden Top & Drawers"
+            "Metal Body Wooden Top & Drawers",
+            "Metal Body Wooden Drawers",
+            "Metal Body & Drawers"
         ],
         "Description": {
             "Features": [
@@ -88,11 +96,12 @@
                 "Body made from metal based on 4 braked rubber casters",
                 "18mm thick MDF drawer faces in laminate finish or metal faces in electrostatic powder coated finish",
                 "Available with two or three centrally lockable drawers",
-                "Optional fabric covered top"
+                "Optional fabric covered top (Optional)"
             ]
         },
         "Finishes": [
-            "Laminate Metal"
+            "Laminate",
+            "Metal"
         ],
         "Dimensions": [
             "LXWXH 42x49x55 CM"
@@ -109,7 +118,9 @@
     {
         "Product Name": "TRAIN DRAWER UNITS",
         "Second Name": [
-            "Metal Body Wooden & Drawers Top"
+            "Metal Body Wooden Top & Drawers",
+            "Metal Body Wooden Drawers",
+            "Metal Body & Drawers"
         ],
         "Description": {
             "Features": [
@@ -121,7 +132,8 @@
             ]
         },
         "Finishes": [
-            "Laminate Metal"
+            "Laminate",
+            "Metal"
         ],
         "Dimensions": [
             "STANDARD DIMENSIONS: LXWXH 42x49x55 CM"
@@ -159,7 +171,7 @@
         ]
     },
     {
-        "Product Name": "LOCKERS Y1SI LOCKERS",
+        "Product Name": "LOCKERS Y151 LOCKERS",
         "Second Name": null,
         "Description": {
             "Features": [
