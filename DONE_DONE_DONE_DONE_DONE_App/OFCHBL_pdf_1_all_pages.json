@@ -5,12 +5,13 @@
         "Description": {
             "Features": [
                 "Executive ergonomic high back chair with multi-functional mechanism",
-                "360* swivel chair on plastic base with braked rubber casters",
+                "360' swivel chair on plastic base with braked rubber casters",
                 "Translucent mesh seat and back",
                 "Hydraulic height adjustment",
                 "Automatic back tension adjustment",
                 "Fixed mesh head-rest",
-                "Adjustable 4D armrest: Available with adjustable lumbar support (Optional)",
+                "Adjustable 4D armrest", 
+                "Available with adjustable lumbar support (Optional)",
                 "Available with clip-on fabric cover for seat and back (Optional)"
             ]
         },
@@ -30,8 +31,8 @@
         "Second Name": null,
         "Description": {
             "Features": [
-                "Executive ergonomic high back chair",
-                "Multi-functional mechanism: 360 swivel chair on plastic base with braked rubber casters",
+                "Executive ergonomic high back chair with multi-functional mechanism",
+                "360' swivel chair on plastic base with braked rubber casters",
                 "Translucent mesh seat and back",
                 "Hydraulic height adjustment",
                 "Automatic back tension adjustment",
@@ -42,7 +43,8 @@
             ]
         },
         "Finishes": [
-            "Mesh Fabric",
+            "Mesh",
+            "Fabric",
             "Natural leather",
             "Artifical leather"
         ],
@@ -58,7 +60,7 @@
         "Description": {
             "Features": [
                 "Executive ergonomic medium back chair with multi-functional mechanism",
-                "360 swivel chair on plastic base with braked rubber casters",
+                "360' swivel chair on plastic base with braked rubber casters",
                 "Translucent mesh seat and back",
                 "Hydraulic height adjustment",
                 "Automatic back tension adjustment",
@@ -69,7 +71,8 @@
             ]
         },
         "Finishes": [
-            "Mesh Fabric",
+            "Mesh",
+            "Fabric",
             "Natural leather",
             "Artifical leather"
         ],
@@ -84,8 +87,8 @@
         "Second Name": null,
         "Description": {
             "Features": [
-                "Executive ergonomic medium back chair",
-                "Multi-functional mechanise 360 swivel chair on plastic base with braked rubber casters",
+                "Executive ergonomic medium back chair with multi-functional mechanise",
+                "360' swivel chair on plastic base with braked rubber casters",
                 "Translucent mesh seat and back",
                 "Hydraulic height adjustment",
                 "Automatic back tension adjustment",
@@ -96,7 +99,8 @@
             ]
         },
         "Finishes": [
-            "Mesh Fabric",
+            "Mesh",
+            "Fabric",
             "Natural leather",
             "Artifical leather"
         ],
