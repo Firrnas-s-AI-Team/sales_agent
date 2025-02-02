@@ -1,7 +1,10 @@
 [
     {
         "Product Name": "ONYX CABINETS",
-        "Second Name": null,
+        "Second Name": [
+            "Metal Body Wood",
+            "Metal Body & Doors"
+        ],
         "Description": {
             "Features": [
                 "Metal cabinet with rounded edges",
@@ -77,7 +80,8 @@
     {
         "Product Name": "ONYX DRAWER UNITS",
         "Second Name": [
-            "Metal Body Wooden Drawers"
+            "Metal Body Wooden Drawers",
+            "Metal Body & Drawers"
         ],
         "Description": {
             "Features": [
@@ -85,7 +89,7 @@
                 "Body made from metal based on 4 braked rubber casters",
                 "18mm thick MDF drawer faces in laminate finish or metal faces (Built-in) in electrostatic paint",
                 "Available in two or three centrally lockable drawers",
-                "Optional fabric covered top"
+                "Available with fabric covered top (Optional)"
             ]
         },
         "Finishes": [
