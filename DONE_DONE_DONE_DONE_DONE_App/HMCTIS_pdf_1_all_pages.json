@@ -4,6 +4,7 @@
         "Second Name": null,
         "Description": {
             "Features": [
+                "Backrest",
                 "Backrest from Teak massive wood 20mm Matt 20% Polyurethane paint",
                 "Structure Base from Steel Plate powder coated finish"
             ]
@@ -13,8 +14,8 @@
             "Steel Plate"
         ],
         "Dimensions": [
-            "CODE LXWXH DIMENSIONS: STANDARD 100 X36X 60 CM",
-            "STANDARD DIMENSIONS: CODE LXWXH DIMENSIONS: 10O X36 X 60 CM"
+            "CODE: OUMTSTIS1036R LXWXH: 100 X 36 X 60 CM",
+            "CODE: OUMTSTIS1036L LXWXH: 10O X 36 X 60 CM"
         ],
         "Image Paths": []
     }
