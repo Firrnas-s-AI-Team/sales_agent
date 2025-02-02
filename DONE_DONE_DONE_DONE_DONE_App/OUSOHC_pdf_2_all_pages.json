@@ -7,7 +7,7 @@
                 "Sofa seat with side table",
                 "Base from African teak wood, polyurethane painted",
                 "Inner chassis from Plywood 18 mm",
-                "Upholstered with foam density 28 kg/m\u00b3",
+                "Upholstered with foam density 28 kg/m2",
                 "Covered with Standard Artificial Leather Fabric"
             ]
         },
@@ -18,8 +18,7 @@
         ],
         "Dimensions": [
             {
-                "Code": "OUSOISHA",
-                "LxWxH": "140 X 95X75 CM"
+                "140 X 95 X 75 CM"
             }
         ],
         "Image Paths": [
