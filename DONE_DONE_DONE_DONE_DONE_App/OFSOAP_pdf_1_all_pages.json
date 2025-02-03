@@ -1,0 +1,51 @@
+[
+    {
+        "Product Name": "AIRPORT WAITING SEAT",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Waiting visitors ergonomic seating",
+                "Metal body and structure based on metal legs in electrostatic powder coated finish",
+                "Upholstered seat and back",
+                "Available with two, three and four seating",
+                "Available with wooden metal coffee table (Optional)",
+                "Available with metal fixed arm rest (Optional)"
+            ]
+        },
+        "Finishes": [
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 132x75x90 CM",
+            "196x75x90 CM",
+            "259x75x90 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOAP_pdf_1/OFSOAP_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "AIRPORT WAITING SEAT",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Waiting visitors ergonomic seating",
+                "Metal body and structure based on metal legs in electrostatic powder coated finish",
+                "Available with two, three and four seating",
+                "Available with wooden metal coffee table (Optional)",
+                "Available with metal fixed arm rest (Optional)"
+            ]
+        },
+        "Finishes": [
+            "Metal Artificial leather"
+        ],
+        "Dimensions": [
+            "LXWXH 132x75x90 CM",
+            "196x75x90 CM",
+            "259x75x90 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOAP_pdf_1/OFSOAP_pdf_1_page2_image0002.png"
+        ]
+    }
+]

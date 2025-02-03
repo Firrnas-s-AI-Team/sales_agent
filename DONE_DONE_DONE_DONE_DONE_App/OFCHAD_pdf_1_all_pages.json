@@ -1,0 +1,94 @@
+[
+    {
+        "Product Name": "AUDITORIUM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Seat & Back formed from rounded steel tubes 19 mm and injected moulded flexible polyurethane.",
+                "Side made of steel tube with pressed steel sheet feet.",
+                "Armrest made of a bended steel sheet padded from both sides with polyurethane.",
+                "The top of the arm-rests are provided with an integral skin injected black polyurethane.",
+                "Seat and back fully upholstered.",
+                "Note: Each row requires one auditorium chair end side."
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHAD_pdf_1/OFCHAD_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "AUDITORIUM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Seat & Back formed from rounded steel tubes and injected moulded flexible polyurethane",
+                "Side made of steel tube with pressed steel sheet feet",
+                "Armrest made of a bended steel sheet padded from both sides with polyurethane",
+                "The top of the arm-rests are provided with an integral skin injected black polyurethane",
+                "Seat and back fully upholstered",
+                "Note: Each row requires one auditorium chair end side"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHAD_pdf_1/OFCHAD_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "AUDITORIUM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest and armrests",
+                "Back covered with plywood",
+                "Back, seat and armrest are fully upholstered",
+                "Note: Each row require one auditorium chair end side"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHAD_pdf_1/OFCHAD_pdf_1_page3_image0003.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHAD_pdf_1/OFCHAD_pdf_1_page3_image0004.png"
+        ]
+    },
+    {
+        "Product Name": "AUDITORIUM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest and armrests",
+                "Back covered with plywood",
+                "Armrests are made from plywood",
+                "Back and seat are fully upholstered",
+                "Note: Each row requires one auditorium chair end side"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHAD_pdf_1/OFCHAD_pdf_1_page4_image0005.png"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "Product Name": "ONYX MEETING TABLE",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative meeting table",
+                "18mm thick wooden top in laminate finish with PVC lipping",
+                "Based on metal structure and legs in electrostatic powder coated finish",
+                "Including concealed cable management system with aluminum flap",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding pedestal, credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "120 x 120/140/160 x 75 CM",
+            "140 x 120/140/160 x 75 CM",
+            "160 x 120/140/160x 75 CM",
+            "240 x 120/140/160 x 75 CM",
+            "280 x 120/140/160 x 75 CM",
+            "320 x 120/140/160 x 75 CM",
+            "360 x 120/140/160 x 75 CM",
+            "480 x 120/140/160 x 75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFMTON_pdf_1/OFMTON_pdf_1_page1_image0001.png"
+        ]
+    }
+]

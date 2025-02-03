@@ -1,0 +1,26 @@
+[
+    {
+        "Product Name": "RIO Lounge set",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "lounge set",
+                "Based on steel tubes 25x75x1.5 mm, electrostatic powder coated paint",
+                "Seat & back Upholstered (Standard Artificial Leather Fabric)"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Artificial leather",
+            "Steel tube"
+        ],
+        "Dimensions": [
+            {
+                "300 X 180 X 68 CM"
+            }
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OUSORO_pdf_1/OUSORO_pdf_1_page1_image0001.png"
+        ]
+    }
+]

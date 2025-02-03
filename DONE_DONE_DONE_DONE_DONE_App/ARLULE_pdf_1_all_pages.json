@@ -1,0 +1,42 @@
+[
+    {
+        "Product Name": "LEO LIGHT UNIT-LU",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Hanged acoustic tile",
+                "Aluminum frame in electrostatic powder coated paint",
+                "Supported by led light"
+            ]
+        },
+        "Finishes": [
+            "Aluminum"
+        ],
+        "Dimensions": [
+            "LXWxH 120 x 5 x 7 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/ARLULE_pdf_1/ARLULE_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "LEO LICHT UNIT-LU",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Hanged acoustic tile",
+                "Aluminum frame in electrostatic powder coated paint",
+                "Supported by led light"
+            ]
+        },
+        "Finishes": [
+            "Aluminum"
+        ],
+        "Dimensions": [
+            "LXWXH 120 X 60 x 7 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/ARLULE_pdf_1/ARLULE_pdf_1_page2_image0002.png"
+        ]
+    }
+]

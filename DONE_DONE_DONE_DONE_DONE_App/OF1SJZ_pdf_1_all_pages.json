@@ -1,0 +1,25 @@
+[
+    {
+        "Product Name": "JAZZ ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "A break-out modular seating that is made of a wooden frame and based on electrostatic painted metal structure and legs.",
+                "The plush foam inserts and the curve-shaped backrest design combine comfort with modernity>"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "75 X 74 X 77 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OF1SJZ_pdf_1/OF1SJZ_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OF1SJZ_pdf_1/OF1SJZ_pdf_1_page1_image0002.png"
+        ]
+    }
+]
