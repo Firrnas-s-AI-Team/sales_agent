@@ -7,11 +7,11 @@ langchain_ollama
 langgraph
 pypdf
 langdetect
-TTS
+#TTS
 gtts
 transformers
 torch
-langdetect
 deep-translator
-transformers
 langdetect
+langchain
+langchain_community

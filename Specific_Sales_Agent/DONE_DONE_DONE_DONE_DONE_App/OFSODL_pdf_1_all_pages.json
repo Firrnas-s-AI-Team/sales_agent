@@ -1,0 +1,26 @@
+[
+    {
+        "Product Name": "DOLPHIN OPERATIVE STOOL",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative stool: Rectangular fully upholstered seat",
+                "Based on sled base in chrome finish"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXW: 45X38 CM",
+            "H: 79 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSODL_pdf_1/OFSODL_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSODL_pdf_1/OFSODL_pdf_1_page1_image0002.png"
+        ]
+    }
+]

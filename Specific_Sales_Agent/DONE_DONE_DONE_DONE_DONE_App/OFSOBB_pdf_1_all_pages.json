@@ -1,0 +1,134 @@
+[
+    {
+        "Product Name": "BREAK BENCH TWO SEATS",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Break-out modular seating",
+                "Based on electrostatic painted metal structure and legs",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Available with integrated coffee table and fixed metal arm rests (Optional)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 190x80x77 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOBB_pdf_1/OFSOBB_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "BREAK BENCH TWO ONE & TWO SEATS",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Break-out modular seating",
+                "Based on electrostatic painted metal structure and legs",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Available with integrated coffee table and fixed metal arm rests (Optional)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natura leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXW: 155x80 CM",
+            "H: 77 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOBB_pdf_1/OFSOBB_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "BREAK BENCH THREE SEATS",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Break-out modular seating",
+                "Based on electrostatic painted metal structure and legs",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Available with integrated coffee table and fixed metal arm rests (Optional)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 225x80x77 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOBB_pdf_1/OFSOBB_pdf_1_page3_image0003.png"
+        ]
+    },
+    {
+        "Product Name": "BREAK BENCH FOUR SEATS",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Break-out modular seating",
+                "Based on electrostatic painted metal structure and legs",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Available with integrated coffee table and fixed metal arm rests (Optional)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natura leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 300x80x77 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOBB_pdf_1/OFSOBB_pdf_1_page4_image0004.png"
+        ]
+    },
+    {
+        "Product Name": "BREAK BENCH FIVE SEATS",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Break-out modular seating",
+                "Based on electrostatic painted metal structure and legs",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Available with integrated coffee table",
+                "Fixed metal arm rests (Optional)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 375x80x77 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOBB_pdf_1/OFSOBB_pdf_1_page5_image0005.png"
+        ]
+    }
+]

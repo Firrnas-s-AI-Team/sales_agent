@@ -1,0 +1,22 @@
+[
+    {
+        "Product Name": "RECYCLE BIN",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Colorful recycle bin",
+                "Metal body in electrostatic powder coated finish"
+            ]
+        },
+        "Finishes": [
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 30x30x90 CM",
+            "LXWXH 90x30x90 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFRBEC_pdf_1/OFRBEC_pdf_1_page1_image0001.png"
+        ]
+    }
+]

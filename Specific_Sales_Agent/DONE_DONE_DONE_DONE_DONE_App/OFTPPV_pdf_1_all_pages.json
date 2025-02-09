@@ -1,0 +1,53 @@
+[
+    {
+        "Product Name": "THINK POD AcoUSTIC ROOM SLIDING",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Casual meeting isolated room",
+                "5.6 cm thick aluminum partition in electrostatic powder coated finish",
+                "Room interface supported with two single glazed panels from clear tempered glass",
+                "Including one sliding single glazed door",
+                "Fully acoustic fabric paneling from three sides",
+                "Include two sofas fully fabric upholstered and a coffee table in the middle",
+                "Including lighting and concealed cable management system",
+                "Excluding electric source and grommet power outlet"
+            ]
+        },
+        "Finishes": [
+            "Aluminum",
+            "Fabric"
+        ],
+        "Dimensions": [
+            "L: 250 cm",
+            "W: 150 cm",
+            "H: 230 cm"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFTPPV_pdf_1/OFTPPV_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "THINK POD AcOUSTIC ROOM PIVOT",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Casual meeting isolated room",
+                "5.6 cm thick aluminum partition in electrostatic powder coated finish",
+                "Room interface supported with two single glazed panels from clear tempered glass",
+                "Including one pivot single glazed door",
+                "Including lighting and concealed cable management system",
+                "Excluding electric source and grommet power outlet"
+            ]
+        },
+        "Finishes": [
+            "Aluminum Fabric"
+        ],
+        "Dimensions": [
+            "LXWXH 240 x 170 x 230 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFTPPV_pdf_1/OFTPPV_pdf_1_page2_image0002.png"
+        ]
+    }
+]

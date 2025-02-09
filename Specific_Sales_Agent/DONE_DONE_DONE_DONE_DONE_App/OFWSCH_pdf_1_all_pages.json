@@ -1,0 +1,32 @@
+[
+    {
+        "Product Name": "CHROMO WORKSTATION",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative workstation; serving any desired number of employees",
+                "8mm Thick wooden top in laminate finish with PVC lipping",
+                "Based on metal structure and rectangular metal legs with metal inlays formed from 1.Smm metal sheets in electrostatic powder coated paint",
+                "Include front separator, and available with side separator (Optional)",
+                "Including concealed cable management system with aluminum flap",
+                "Excluding electric source & grommet power outlet",
+                "Can be matched with corresponding pedestal; credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal Fabric Separator"
+        ],
+        "Dimensions": [
+            "120/140/160 x 120/140/160 x 75 CM for NO. OF PERSONS",
+            "240/280/320 x 120/140/160 x 75 CM",
+            "360/420/480 x 120/140/160 x 75 CM",
+            "480/560/640 x 120/140/160 x 75 CM",
+            "600/700/800 x 120/140/160 x 75 CM for NO. OF PERSONS",
+            "10"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFWSCH_pdf_1/OFWSCH_pdf_1_page1_image0001.png"
+        ]
+    }
+]

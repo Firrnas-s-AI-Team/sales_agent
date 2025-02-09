@@ -1,0 +1,48 @@
+[
+    {
+        "Product Name": "CAPO EXECUTIVE HIGH BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive High Back Ergonomic chair with Multi-Functional Mechanism",
+                "360 swivel chair on plastic base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Tilting mechanism",
+                "Fixed upholstered armrest",
+                "Seat, armrest and back fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHCP_pdf_1/OFCHCP_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "CAPO OPERATIVE LOW BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative Medium Back Ergonomic chair",
+                "Multi-Functional Mechanism: 360 swivel chair on plastic base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Tilting mechanism",
+                "Fixed upholstered armrest",
+                "Seat, armrest and back fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHCP_pdf_1/OFCHCP_pdf_1_page2_image0002.png"
+        ]
+    }
+]

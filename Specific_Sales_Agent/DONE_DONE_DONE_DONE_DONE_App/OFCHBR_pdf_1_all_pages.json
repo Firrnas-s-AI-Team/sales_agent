@@ -1,0 +1,124 @@
+[
+    {
+        "Product Name": "BRADO EXECUTIVE HIGH BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic chair with multi-functional mechanism",
+                "360\u00b0 swivel chair on plastic base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Tilting mesh back",
+                "Adjustable lumbar support",
+                "Adjustable head rest",
+                "Height adjustable armrest",
+                "Seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page1_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "BRADO OPERATIVE LOW BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative ergonomic chair with multi-functional mechanism",
+                "360* swivel chair on plastic base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Tilting mesh back",
+                "Adjustable lumbar support",
+                "Height adjustable armrest",
+                "Seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page2_image0003.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page2_image0004.png"
+        ]
+    },
+    {
+        "Product Name": "BRADO OPERATIVE LOW BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative ergonomic chair with multi-functional mechanism",
+                "360\" swivel chair on plastic base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Tilting upholstered back",
+                "Adjustable lumbar support",
+                "Height adjustable armrest",
+                "Seat and back fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page3_image0005.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page3_image0006.png"
+        ]
+    },
+    {
+        "Product Name": "BRADO OPERATIVE VISITOR CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative guest ergonomic chair",
+                "Based on 4 in nickel chrome finish",
+                "Mesh upholstered back",
+                "Fixed plastic armrest",
+                "Seat and back upholstered",
+                "legs fully"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page4_image0007.png"
+        ]
+    },
+    {
+        "Product Name": "BRADO OPERATIVE VISITOR CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative guest ergonomic chair",
+                "Based on 4 in nickel chrome finish",
+                "Mesh back",
+                "Fixed plastic armrest",
+                "Seat fully upholstered: legs"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page5_image0008.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBR_pdf_1/OFCHBR_pdf_1_page5_image0009.png"
+        ]
+    }
+]

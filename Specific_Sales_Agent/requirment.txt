@@ -1,0 +1,14 @@
+langchain
+langgraph
+ollama
+langchain_community
+jq
+langchain_groq
+langchain 
+ollama
+faiss-cpu
+langchain_ollama 
+pypdf
+transformers
+torch
+streamlit

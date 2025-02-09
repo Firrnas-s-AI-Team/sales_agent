@@ -1,0 +1,62 @@
+[
+    {
+        "Product Name": "SQUARE L -SHAPE DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive L-shaped desk 60mm thick MDF wooden top in natural veneer finish",
+                "Standing on marble or metal leg",
+                "Attached side includes 3 lockable drawers and 3 cabinets with doors",
+                "Including concealed cable management system with aluminum",
+                "Include veneered wooden front modesty panel (Optional)",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding credenza and coffee table_ leg flap"
+            ]
+        },
+        "Finishes": [
+            "Natural veneer",
+            "Artificial leather",
+            "Marble"
+        ],
+        "Dimensions": [
+            "LXWXH 200x180x75 CM",
+            "220x180x75 CM",
+            "240x180x75 CM",
+            "260x180x75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKSQ_pdf_1/OFDKSQ_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "SQUARE L -SHAPE DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive L-shaped desk",
+                "60mm thick MDF wooden top in laminate finish",
+                "Standing on black metal in electrostatic powder coated finish",
+                "Attached side includes 3 lockable drawers and 3 cabinets with doors",
+                "Including concealed cable management system with aluminum",
+                "Include wooden front modesty panel (Optional)",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Natural veneer",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 200x180x75 CM",
+            "220x180x75 CM",
+            "240x180x75 CM",
+            "260x180x75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKSQ_pdf_1/OFDKSQ_pdf_1_page2_image0002.png"
+        ]
+    }
+]

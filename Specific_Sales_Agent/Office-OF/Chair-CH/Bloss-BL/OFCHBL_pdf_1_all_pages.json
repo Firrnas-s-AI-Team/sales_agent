@@ -1,0 +1,109 @@
+[
+    {
+        "Product Name": "BLOSS EXECUTIVE HIGH BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic high back chair with multi-functional mechanism",
+                "360* swivel chair on plastic base with braked rubber casters",
+                "Translucent mesh seat and back",
+                "Hydraulic height adjustment",
+                "Automatic back tension adjustment",
+                "Fixed mesh head-rest",
+                "Adjustable 4D armrest: Available with adjustable lumbar support (Optional)",
+                "Available with clip-on fabric cover for seat and back (Optional)"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBL_pdf_1/OFCHBL_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBL_pdf_1/OFCHBL_pdf_1_page1_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "BLOSS EXECUTIVE HIGH BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic high back chair",
+                "Multi-functional mechanism: 360 swivel chair on plastic base with braked rubber casters",
+                "Translucent mesh seat and back",
+                "Hydraulic height adjustment",
+                "Automatic back tension adjustment",
+                "Fixed mesh head-rest",
+                "Fixed armrest",
+                "Available with adjustable lumbar support (Optional)",
+                "Available with clip-on fabric cover for seat and back (Optional)"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBL_pdf_1/OFCHBL_pdf_1_page2_image0003.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBL_pdf_1/OFCHBL_pdf_1_page2_image0004.png"
+        ]
+    },
+    {
+        "Product Name": "BLOSS EXECUTIVE LOW BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic medium back chair with multi-functional mechanism",
+                "360 swivel chair on plastic base with braked rubber casters",
+                "Translucent mesh seat and back",
+                "Hydraulic height adjustment",
+                "Automatic back tension adjustment",
+                "Fixed mesh head-rest",
+                "Adjustable 4D armrest",
+                "Available with adjustable lumbar support (Optional)",
+                "Available with clip-on fabric cover for seat and back (Optional)"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBL_pdf_1/OFCHBL_pdf_1_page3_image0005.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBL_pdf_1/OFCHBL_pdf_1_page3_image0006.png"
+        ]
+    },
+    {
+        "Product Name": "BLOSS EXECUTIVE LOW BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic medium back chair",
+                "Multi-functional mechanise 360 swivel chair on plastic base with braked rubber casters",
+                "Translucent mesh seat and back",
+                "Hydraulic height adjustment",
+                "Automatic back tension adjustment",
+                "Fixed mesh head-rest",
+                "Fixed armrest",
+                "Available with adjustable lumbar support (Optional)",
+                "Available with clip-on fabric cover for seat and back (Optional)"
+            ]
+        },
+        "Finishes": [
+            "Mesh Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBL_pdf_1/OFCHBL_pdf_1_page4_image0007.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHBL_pdf_1/OFCHBL_pdf_1_page4_image0008.png"
+        ]
+    }
+]

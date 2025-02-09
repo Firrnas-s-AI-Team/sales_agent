@@ -1,0 +1,47 @@
+[
+    {
+        "Product Name": "SQUARE CREDENZA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive low-height cabinet",
+                "The shelving units, drawers, sides and top are made from MDF covered with 0.6-0.8mm natural veneer",
+                "Available in 4 lockable leaves"
+            ]
+        },
+        "Finishes": [
+            "Natural veneer"
+        ],
+        "Dimensions": [
+            "LXWXH 200x50x88 CM",
+            "220x50x88 CM",
+            "240x50x88 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCRSQ_pdf_1/OFCRSQ_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "SQUARE CREDENZA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive low-height cabinet",
+                "The Shelving units, drawers, sides and top are made from MDF in laminate finish: Based on metal structure in electrostatic powder coated paint",
+                "Available in 4 lockable leaves"
+            ]
+        },
+        "Finishes": [
+            "Natural veneer",
+            "Laminate"
+        ],
+        "Dimensions": [
+            "LXWXH 200x50x88 CM",
+            "LXWXH 220x50x88 CM",
+            "LXWXH 240x50x88 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCRSQ_pdf_1/OFCRSQ_pdf_1_page2_image0002.png"
+        ]
+    }
+]

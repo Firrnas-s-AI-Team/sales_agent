@@ -1,0 +1,33 @@
+[
+    {
+        "Product Name": "TRAIN WORKSTATION",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative workstation serving any desired number of employees",
+                "8mm thick wooden top in laminate finish with PVC lipping",
+                "Based on metal structure and SxScm metal legs formed from 1.Smm metal sheets in electrostatic powder coated paint",
+                "Includes front separator, available with side separator (Optional)",
+                "Concealed cable management system with aluminum",
+                "Excludes electric source and grommet power outlet",
+                "Can be matched with corresponding pedestal; credenza and coffee table flap"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal",
+            "Fabric Separator"
+        ],
+        "Dimensions": [
+            "120/140/160 x 120/140/160 x 75 CM for NO. OF PERSONS: 1",
+            "240/280/320 x 120/140/160 x 75 CM for NO. OF PERSONS: 2",
+            "360/420/480 x 120/140/160 x 75 CM for NO. OF PERSONS: 3",
+            "480/560/640 x 120/140/160 x 75 CM for NO. OF PERSONS: 4",
+            "600/700/800 x 120/140/160 x 75 CM for NO. OF PERSONS: 5",
+            "10"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFWSTR_pdf_1/OFWSTR_pdf_1_page1_image0001.png"
+        ]
+    }
+]
