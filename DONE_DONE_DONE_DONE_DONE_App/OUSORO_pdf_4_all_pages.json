@@ -1,0 +1,27 @@
+[
+    {
+        "Product Name": "RIO Lounge set",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Bench 1 seat without wooden side top",
+                "Based on steel tubes 25x15x1.5 mm, electrostatic powder coated paint",
+                "Seat & back Upholstered with foam density 28 kg/m2 (Standard Artificial Leather Fabric)",
+                "Side top from Stripes from African teak wood 18mm thickness polyurethane painted"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Artificial leather",
+            "Teakwood",
+            "Steel tube"
+        ],
+        "Dimensions": [
+             
+            "120 X 90 X 60 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OUSORO_pdf_4/OUSORO_pdf_4_page1_image0001.png"
+        ]
+    }
+]

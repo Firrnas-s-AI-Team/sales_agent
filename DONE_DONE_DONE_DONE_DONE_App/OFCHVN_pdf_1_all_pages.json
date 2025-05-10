@@ -1,0 +1,47 @@
+[
+    {
+        "Product Name": "VENICE EXECUTIVE HIGH BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive medium back ergonomic chair",
+                "Multi-Functional Mechanism",
+                "360\" swivel chair on wooden base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Fixed wooden armrest",
+                "Seat; armrest and back fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHVN_pdf_1/OFCHVN_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "VENICE EXECUTIVE VISITOR CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative guest lounge arm-chair",
+                "Based on 4 beech massive wood legs and structure",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest and armrests",
+                "Back, seat and armrest are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHVN_pdf_1/OFCHVN_pdf_1_page2_image0002.png"
+        ]
+    }
+]

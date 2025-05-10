@@ -1,0 +1,68 @@
+[
+    {
+        "Product Name": "CUBE OPERATIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative lounge armchair",
+                "Based on metal structure and legs in electrostatic powder coated paint (Available with Nickel Chrome legs)",
+                "Chair fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "L: 79 CM",
+            "W: 85 CM",
+            "H: 85 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCB_pdf_1/OFSOCB_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "CUBE OPERATIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Based on metal structure and legs in electrostatic powder coated paint: (Available with Nickel Chrome legs)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric Natural leather Artificial leather Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 134x85x85 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCB_pdf_1/OFSOCB_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "CUBE OPERATIVE THREE SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Based on metal structure and in electrostatic powder coated paint (Available with Nickel Chrome legs)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 189x85x85 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCB_pdf_1/OFSOCB_pdf_1_page3_image0003.png"
+        ]
+    }
+]

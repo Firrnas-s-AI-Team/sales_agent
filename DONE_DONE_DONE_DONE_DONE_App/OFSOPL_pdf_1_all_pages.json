@@ -1,0 +1,70 @@
+[
+    {
+        "Product Name": "PLUSH EXECUTIVE ARMCHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa",
+                "Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish",
+                "Seat; back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Wood"
+        ],
+        "Dimensions": [
+            "LXWXH 94 x 85 x 78 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOPL_pdf_1/OFSOPL_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "PLUSH EXECUTIVE SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa: Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish:",
+                "Seat; back and armrests are fully upholstered:"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Wood"
+        ],
+        "Dimensions": [
+            "LXW: 158 x 85 CM",
+            "H: 78 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOPL_pdf_1/OFSOPL_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "PLUSH EXECUTIVE COFFEE TABLE",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa: Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish:",
+                "Seat; back and armrests are fully upholstered."
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Wood"
+        ],
+        "Dimensions": [
+            "LXWXH 81 x 81x 40 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOPL_pdf_1/OFSOPL_pdf_1_page3_image0003.png"
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "Product Name": "BLADE EXECUTIVE ARMCHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive Armchair Based on metal structure and legs in electrostatic powder coated finish ar water-jet cut finish",
+                "Available with three seating: Seat; back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 127x93x74 CM"
+        ],
+        "Image Paths": []
+    },
+    {
+        "Product Name": "BLADE EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge two seater sofa",
+                "Based on metal structure and legs in electrostatic powder coated finish ar water-jet cut finish",
+                "Available with three seating",
+                "Seat, back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric Natura leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH: 200x93x74 CM"
+        ],
+        "Image Paths": []
+    },
+    {
+        "Product Name": "BLADE L-SHAPED",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Break-out modular seating",
+                "Based on electrostatic painted metal structure and legs",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Available with integrated coffee table",
+                "Fixed metal arm rests (Optional)",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "L: 195 CM",
+            "W: 95 CM",
+            "H: 74 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOBL_pdf_2/OFSOBL_pdf_2_page3_image0001.png"
+        ]
+    }
+]

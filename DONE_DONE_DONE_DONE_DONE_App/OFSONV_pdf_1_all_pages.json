@@ -1,0 +1,50 @@
+[
+    {
+        "Product Name": "NAVIGATOR EXECUTIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge armchair",
+                "Based on metal structure and legs in electrostatic powder coated paint",
+                "Plush foam inserts in seat and backrest",
+                "Fixed metal rectangular armrests in electrostatic powder coated finish",
+                "Chair fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric Natura leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 69 X 87 X 69 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSONV_pdf_1/OFSONV_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "NAVIGATOR EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge two seater sofa",
+                "Based on metal structure and legs in electrostatic powder coated paint",
+                "Plush foam inserts in seat and backrest",
+                "Fixed metal rectangular armrests in electrostatic powder coated finish",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric Natura leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 130 X 87 X 69 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSONV_pdf_1/OFSONV_pdf_1_page2_image0002.png"
+        ]
+    }
+]

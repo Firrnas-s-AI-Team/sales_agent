@@ -1,0 +1,27 @@
+[
+    {
+        "Product Name": "BLADE DESK RECTANGULAR DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive Rectangular Desk",
+                "18mm-thick MDF wooden top in laminate or natural veneer finish",
+                "Structure and legs are formed from steel in electrostatic powder coated paint finish",
+                "Can be matched with corresponding credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Natural veneer",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 180x100x75 CM",
+            "200x100x75 CM",
+            "220x100x75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKBL_pdf_1/OFDKBL_pdf_1_page1_image0001.png"
+        ]
+    }
+]

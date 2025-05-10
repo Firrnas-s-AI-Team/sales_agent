@@ -1,0 +1,27 @@
+[
+    {
+        "Product Name": "FLAMINGO OPERATIVE STOOL",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative stool",
+                "Round fully upholstered seat",
+                "Based on sled base in chrome finish"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": [
+            "L: 47 CM",
+            "W: 42 CM",
+            "H: 78 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOFL_pdf_1/OFSOFL_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOFL_pdf_1/OFSOFL_pdf_1_page1_image0002.png"
+        ]
+    }
+]

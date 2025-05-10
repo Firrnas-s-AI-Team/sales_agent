@@ -1,0 +1,58 @@
+[
+    {
+        "Product Name": "TRAIN L-SHAPED DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative L-shaped desk",
+                "18mm thick wooden top in laminate finish with PVC lipping",
+                "Based on metal structure and two SxScm metal legs formed from 1.Smm metal sheets in electrostatic powder coated paint",
+                "Attached side includes 3 lockable drawers and cabinet with lockable lea",
+                "2 open storage spaces",
+                "Available with front modesty panel in laminate finish (Optional)",
+                "Including concealed cable management system with aluminum flap",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding pedestal, credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 150x170x75 CM Right Or Left side",
+            "Right Or Left side 170x170x75 CM",
+            "Right Or Left side 190x170x75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKTR_pdf_1/OFDKTR_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "TRAIN RECTANGULAR SHAPED DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative rectangular desk",
+                "18mm thick wooden top in laminate finish with PVC lipping",
+                "Based on metal structure and four SxScm metal legs formed from 1.Smm metal sheets in electrostatic powder coated paint",
+                "Available with front modesty panel in laminate finish (Optional)",
+                "Including concealed cable management system with aluminum flap",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding pedestal, credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 120 x 70/80 x 75 CM",
+            "140 x 70/80 x 75 CM",
+            "160 x 70/80 x 75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKTR_pdf_1/OFDKTR_pdf_1_page2_image0002.png"
+        ]
+    }
+]

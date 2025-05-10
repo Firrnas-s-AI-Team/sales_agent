@@ -1,0 +1,50 @@
+[
+    {
+        "Product Name": "VENICE RECTANGULAR DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive rectangular desk",
+                "25mm-thick MDF wooden top in natural veneer finish",
+                "Based on Beech massive wood structure and 4 in polyurethane paint",
+                "Built-in centered wooden drawer made from beech massive wood, supported with push-to-open mechanism",
+                "Can be matched with corresponding credenza and coffee table legs"
+            ]
+        },
+        "Finishes": [
+            "Natural veneer",
+            "Artificial leather"
+        ],
+        "Dimensions": [
+            "LXWXH 160x90x76 CM",
+            "180x90x76 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKVN_pdf_1/OFDKVN_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "VENICE CURVED DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive Curved desk",
+                "25mm-thick MDF wooden top in natural veneer finish",
+                "Based on Beech massive wood structure and 4 in polyurethane paint",
+                "Built-in centered wooden drawer made from beech massive wood, supported with push-to-open mechanism",
+                "Can be matched with corresponding credenza and coffee table",
+                "Can be leather padded working top. legs"
+            ]
+        },
+        "Finishes": [
+            "Natural veneer",
+            "Artificial leather"
+        ],
+        "Dimensions": [
+            "LXWXH 224x94x76 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKVN_pdf_1/OFDKVN_pdf_1_page2_image0002.png"
+        ]
+    }
+]

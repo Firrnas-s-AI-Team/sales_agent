@@ -1,0 +1,47 @@
+[
+    {
+        "Product Name": "VALORA EXECUTIVE HIGH BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive High Back Ergonomic chair with Multi-Functional Mechanism: 360 swivel chair on aluminum base with braked rubber casters.",
+                "Hydraulic height adjustment",
+                "Tilting mechanism: Fixed upholstered armrest",
+                "Seat, armrest and back fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artifical leather"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHVL_pdf_1/OFCHVL_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHVL_pdf_1/OFCHVL_pdf_1_page1_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "VALORA OPERATIVE LOW BACK CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive High Back Ergonomic chair with Multi-Functional Mechanism",
+                "3605 swivel chair on aluminum base with braked rubber casters",
+                "Hydraulic height adjustment",
+                "Tilting mechanism: Fixed upholstered armrest",
+                "Seat; armrest and back fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHVL_pdf_1/OFCHVL_pdf_1_page2_image0003.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCHVL_pdf_1/OFCHVL_pdf_1_page2_image0004.png"
+        ]
+    }
+]

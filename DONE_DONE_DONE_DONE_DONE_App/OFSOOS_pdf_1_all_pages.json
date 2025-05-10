@@ -1,0 +1,51 @@
+[
+    {
+        "Product Name": "OYSTER EXECUTIVE ARMCHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa",
+                "Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish",
+                "Seat; back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXW: 84 X 66 CM",
+            "H: 70 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOOS_pdf_1/OFSOOS_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "OYSTER EXECUTIVE SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa.",
+                "Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish.",
+                "Seat; back and armrests are fully upholstered."
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "L: 159 CM",
+            "W: 66 CM",
+            "H: 70 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOOS_pdf_1/OFSOOS_pdf_1_page2_image0002.png"
+        ]
+    }
+]

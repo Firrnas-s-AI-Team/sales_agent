@@ -1,0 +1,54 @@
+[
+    {
+        "Product Name": "MAVERICK EXECUTIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa",
+                "Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish",
+                "Seat, back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 79 x 81x 85 CM",
+            "LXWXH 79 x 81x 122 CM",
+            "LXWXH 79 x 81x 150 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOMV_pdf_1/OFSOMV_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOMV_pdf_1/OFSOMV_pdf_1_page1_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "MAVERICK EXECUTIVE ARMCHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa",
+                "Based on metal structure and legs in electrostatic powder coated finish and water-jet cut finish",
+                "Seat; back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 184 X 83x 85 CM",
+            "LXWXH 184 X 83x 122 CM",
+            "LXWXH 184 X 83x 150 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOMV_pdf_1/OFSOMV_pdf_1_page2_image0003.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOMV_pdf_1/OFSOMV_pdf_1_page2_image0004.png"
+        ]
+    }
+]

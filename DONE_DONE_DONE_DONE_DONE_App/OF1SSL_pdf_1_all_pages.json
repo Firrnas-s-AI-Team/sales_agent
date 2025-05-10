@@ -1,0 +1,28 @@
+[
+    {
+        "Product Name": "SPOTLIGHT ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Break-out lounge armchair",
+                "Based on electrostatic painted metal structure and legs in electrostatic powder coated finish",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Surrounded by fixed back and side acoustic fabric separators",
+                "Seat and back cushion fully upholstered in fabric"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "117 x 85 x 105 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OF1SSL_pdf_1/OF1SSL_pdf_1_page1_image0001.png"
+        ]
+    }
+]

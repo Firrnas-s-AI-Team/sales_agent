@@ -1,0 +1,82 @@
+[
+    {
+        "Product Name": "COVO HABITAT OPERATIVE BREAK-OUT LOUNGE",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Based on metal structure and legs",
+                "Fully upholstered with angular backrest and armrest",
+                "Surrounded by fixed back and side acoustic fabric separators",
+                "Includes 360\u00b0 rotating writing pad",
+                "Attached coffee table with aluminum flap",
+                "Excluding electric source & grommet power outlet",
+                "Fully upholstered seat and separator"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWxH: 144x74x120 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCV_pdf_1/OFSOCV_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "COVO HABITAT OPERATIVE BREAK-OUT LOUNGE",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Based on metal structure and Fully upholstered with angular backrest and armrest",
+                "Surrounded by fixed back and side acoustic fabric separators",
+                "Include 360\" rotating writing pad and attached coffee table with aluminum flap",
+                "Excluding electric source & grommet power outlet",
+                "Fully upholstered in fabric: legs"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXW: 223x74 CM",
+            "H: 120 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCV_pdf_1/OFSOCV_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "cOVO HABITAT OPERATIVE BREAK-OUT LOUNGE",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Based on metal structure",
+                "Fully upholstered with angular backrest and armrest",
+                "Surrounded by fixed back and side acoustic fabric separators",
+                "Include 360\" rotating writing pad and attached coffee table with aluminum flap",
+                "Excluding electric source & grommet power outlet",
+                "Fully upholstered in fabric: legs"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH",
+            "CUSTOM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCV_pdf_1/OFSOCV_pdf_1_page3_image0003.png"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Product Name": "BLADE CREDENZA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative metal credenza with rounded edges",
+                "Body made from metal in electrostatic powder coated finish",
+                "2 wooden leaves and 2 middle drawers in laminate finish",
+                "Centrally lockable leaves and drawers",
+                "Include one inner shelf"
+            ]
+        },
+        "Finishes": [
+            "Laminate Natural veneer Metal"
+        ],
+        "Dimensions": [
+            "STANDARD DIMENSIONS: LXWXH 130x49x75 CM (2 Leafs +2 Drawer)",
+            "160x49x75 CM (2 Leafs +1 shelf)"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCRBL_pdf_1/OFCRBL_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCRBL_pdf_1/OFCRBL_pdf_1_page1_image0002.png"
+        ]
+    }
+]

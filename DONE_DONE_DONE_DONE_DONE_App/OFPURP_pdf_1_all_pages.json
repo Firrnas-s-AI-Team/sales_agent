@@ -1,0 +1,27 @@
+[
+    {
+        "Product Name": "RIPPO BREAK-OUT SEAT",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative break-out seat",
+                "Based on electrostatic painted metal structure",
+                "Available with writing pad and storage area (Optional)",
+                "Seat fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "DXWXH 88x65x47 CM",
+            "DXWXH 88x65x69 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFPURP_pdf_1/OFPURP_pdf_1_page1_image0001.png"
+        ]
+    }
+]

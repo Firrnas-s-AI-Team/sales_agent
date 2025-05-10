@@ -1,0 +1,31 @@
+[
+    {
+        "Product Name": "SYNAPSO WORKSTATION",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative workstation, serving any desired number of employees",
+                "8mm Thick MDF wooden top in laminate finish with ABS lipping (Available in laminate acrylic finish)",
+                "Standing on aluminum legs in polished finish",
+                "Including a concealed cable management system",
+                "Available with portable acoustic separator (Optional)",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding pedestal; credenza and cabinet leg"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Aluminum Fabric"
+        ],
+        "Dimensions": [
+            "LXWXH 120x60x73 CM",
+            "LXWXH 120x70x73 CM",
+            "LXWXH 140x60x73 CM",
+            "LXWXH 140x70x73 CM",
+            "LXWXH 160x70x73 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFWSSN_pdf_1/OFWSSN_pdf_1_page1_image0001.png"
+        ]
+    }
+]

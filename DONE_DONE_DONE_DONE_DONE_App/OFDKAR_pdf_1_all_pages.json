@@ -1,0 +1,57 @@
+[
+    {
+        "Product Name": "ARCO L-SHAPED DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative L-shaped desk with an 18mm thick wooden top in laminate finish and PVC lipping.",
+                "Based on metal structure with one rectangular metal leg and a metal inlay formed from 1.Smm metal sheets, electrostatic powder coated paint.",
+                "Includes attached side with 3 lockable drawers and cabinet with lockable lid.",
+                "Provides 2 open storage spaces.",
+                "Features concealed cable management system with aluminum flap.",
+                "Optional front modesty panel available in laminate finish.",
+                "Excludes electric source and grommet power outlet.",
+                "Can be matched with corresponding pedestal, credenza, and coffee table."
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "Standard Dimensions: LxWxH 150x170x75 CM (Right or Left side)",
+            "Standard Dimensions: LxWxH 170x170x75 CM (Right or Left side)",
+            "Standard Dimensions: LxWxH 190x170x75 CM (Right or Left side)"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKAR_pdf_1/OFDKAR_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "ARCO RECTANGULAR SHAPED DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative rectangular desk with 18mm thick wooden top in laminate finish with PVC lipping",
+                "Based on metal structure and two rectangular metal legs",
+                "Metal inlays formed from 1.Smm metal sheets in electrostatic powder coated paint",
+                "Includes concealed cable management system with aluminum flap",
+                "Available with front modesty panel in laminate finish (Optional)",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding pedestal; credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 120x80x75 CM",
+            "140x80x75 CM",
+            "160x80x75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKAR_pdf_1/OFDKAR_pdf_1_page2_image0002.png"
+        ]
+    }
+]

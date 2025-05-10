@@ -1,0 +1,69 @@
+[
+    {
+        "Product Name": "ORE EXECUTIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge armchair",
+                "Based on beech massive wood structure",
+                "Seat, back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Massive wood"
+        ],
+        "Dimensions": [
+            "LXWXH 99x10Ox85 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOOR_pdf_1/OFSOOR_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "ORE EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge two seater sofa.",
+                "Based on beech massive wood structure.",
+                "Seat; Back and armrests are fully upholstered."
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Massive wood"
+        ],
+        "Dimensions": [
+            "LXWXH 168x100x85 CM"
+        ],
+        "Image Paths": []
+    },
+    {
+        "Product Name": "ORE EXECUTIVE THREE SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge three seater sofa",
+                "Based on beech massive wood structure",
+                "Seat; Back and armrests are fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Massive wood"
+        ],
+        "Dimensions": [
+            "LXWXH: 237x100x85 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOOR_pdf_1/OFSOOR_pdf_1_page3_image0002.png"
+        ]
+    }
+]

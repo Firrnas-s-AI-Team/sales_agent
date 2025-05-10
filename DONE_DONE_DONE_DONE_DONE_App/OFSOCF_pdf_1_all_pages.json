@@ -1,0 +1,141 @@
+[
+    {
+        "Product Name": "CHESTERFIELD EXECUTIVE L-SHAPE SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive |-shape lounge sofa",
+                "Based on wooden massive structure upholstered",
+                "Plush foam inserts in seat and backrest",
+                "Seat and back are fully upholstered",
+                "Provided with capotitone buttons fully"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Massive wood"
+        ],
+        "Dimensions": [
+            "197x98x74 CM",
+            "127x97x74 CM",
+            "77x161x74 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCF_pdf_1/OFSOCF_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "CHESTERFIELD EXECUTIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge arm-chair: Based on wooden massive structure fully upholstered.",
+                "Plush foam inserts in seat, armrests and backrest.",
+                "Seat, armrests and back are fully upholstered.",
+                "Provided with capitone buttons"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Massive wood"
+        ],
+        "Dimensions": [
+            "LXW: 120x95 CM",
+            "H: 75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCF_pdf_1/OFSOCF_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "CHESTERFIELD EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge two seater sofa",
+                "Based on wooden massive structure fully upholstered",
+                "Plush foam inserts in seat, armrests and backrest",
+                "Seat; armrests and back are fully upholstered",
+                "Provided with capitone buttons"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Massive wood"
+        ],
+        "Dimensions": [
+            "LXWXH",
+            "195x95x75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCF_pdf_1/OFSOCF_pdf_1_page3_image0003.png"
+        ]
+    },
+    {
+        "Product Name": "CHESTERFIELD EXECUTIVE CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic high back chair with multi-functional mechanism",
+                "Chairs supported by wooden base with braked rubber casters",
+                "Fixed wooden armrests",
+                "360-degree swivel provided with hydraulic height adjustment and tilting mechanism",
+                "Provided with capitone buttons"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Massive wood"
+        ],
+        "Dimensions": null,
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCF_pdf_1/OFSOCF_pdf_1_page4_image0004.png"
+        ]
+    },
+    {
+        "Product Name": "CHESTERFIELD CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic high back chair with multi-functional mechanism",
+                "Chairs supported by wooden legs with braked rubber casters",
+                "Fixed wooden armrests",
+                "Provided with capitone buttons"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Massive wood"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCF_pdf_1/OFSOCF_pdf_1_page5_image0005.png"
+        ]
+    },
+    {
+        "Product Name": "CHESTERFIELD CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive ergonomic low back chair with multi-functional mechanism",
+                "Chairs supported by wooden legs",
+                "Fixed wooden armrests",
+                "Provided with capitone buttons"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Massive wood"
+        ],
+        "Dimensions": [],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCF_pdf_1/OFSOCF_pdf_1_page6_image0006.png"
+        ]
+    }
+]

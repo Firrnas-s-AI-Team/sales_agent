@@ -1,0 +1,81 @@
+[
+    {
+        "Product Name": "ONYX L-SHAPED DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative L-shaped desk with an 18mm thick wooden top in laminate finish and PVC lipping.",
+                "Based on metal structure with two curved metal legs formed from 1.5mm metal sheets in electrostatic powder coated paint.",
+                "Includes a side with 3 wooden lockable drawers and 2 cabinets with lockable wooden leaves, all in laminate finish.",
+                "Optional front modesty panel available in laminate finish.",
+                "Features a concealed cable management system with an aluminum flap.",
+                "Excludes electric source and grommet power outlet.",
+                "Can be matched with corresponding pedestal, credenza, and coffee table leg."
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "Standard Dimensions: LxWxH 150x170x75 CM Right Or Left side",
+            "Alternative Dimension: 170x170x75 CM Right Or Left side",
+            "Alternative Dimension: 190x170x75 CM Right Or Left side"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKON_pdf_1/OFDKON_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "ONYX RECTANGULAR SHAPED DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative rectangular desk 18mm thick wooden top in laminate finish",
+                "Based on metal structure and four legs in electrostatic powder coated finish",
+                "Available with front modesty panel in laminate finish (Optional)",
+                "Including a leg concealed cable management system with aluminum flap",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding pedestal, credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 140 x 70 x 75 CM",
+            "160 x 70x75 CM",
+            "180 x 70x 75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKON_pdf_1/OFDKON_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "ONYX RECTANGULAR SHAPED DESK",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative rectangular desk 18mm thick wooden top in laminate finish",
+                "Based on metal structure and four legs in electrostatic powder coated finish",
+                "Available with front modesty panel in laminate finish (Optional)",
+                "Including a leg concealed cable management system with aluminum flap",
+                "Excluding electric source and grommet power outlet",
+                "Can be matched with corresponding pedestal, credenza and coffee table"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "140 x 80 x 75 CM",
+            "160 x 80 x 75 CM",
+            "180 x 80 x 75 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFDKON_pdf_1/OFDKON_pdf_1_page3_image0003.png"
+        ]
+    }
+]

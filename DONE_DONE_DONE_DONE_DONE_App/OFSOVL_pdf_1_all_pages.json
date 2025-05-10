@@ -1,0 +1,49 @@
+[
+    {
+        "Product Name": "VOLCANO ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative lounge armchair",
+                "Based on metal and structure in electrostatic powder coated finish",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Armchair fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 68 X 65X 73 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOVL_pdf_1/OFSOVL_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "VOLCANO LOUNGE",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative lounge sofa",
+                "Based on metal legs and structure in electrostatic powder coated finish",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric Natura leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 140 X 65X 73 CM"
+        ],
+        "Image Paths": []
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "Product Name": "COCOON EXECUTIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge armchair",
+                "Based on massive wood legs and structure",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest and armrests",
+                "Chair fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Massive wood"
+        ],
+        "Dimensions": [
+            "LXWXH 86x70x83 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCC_pdf_1/OFSOCC_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "COCOON EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge two seater sofa",
+                "Based on massive wood legs and structure",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest and armrests",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Massive wood"
+        ],
+        "Dimensions": [
+            "LXWXH 180x70x83 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCC_pdf_1/OFSOCC_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "COCOON EXECUTIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge armchair: Based on metal legs and structure in electrostatic powder coated finish",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest and armrests",
+                "Chair fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 86x70x83 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCC_pdf_1/OFSOCC_pdf_1_page3_image0003.png"
+        ]
+    },
+    {
+        "Product Name": "COCOON EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive lounge two seater sofa",
+                "Based on metal and structure in electrostatic powder coated finish",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest and armrests",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 160x70x83 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCC_pdf_1/OFSOCC_pdf_1_page4_image0004.png"
+        ]
+    }
+]

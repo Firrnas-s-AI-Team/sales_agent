@@ -1,0 +1,76 @@
+[
+    {
+        "Product Name": "CONNECT EXECUTIVE ARM CHAIR",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive break-out lounge armchair",
+                "Based on metal and structure in electrostatic paint",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Sofa fully upholstered. legs"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 100x64x84 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCN_pdf_1/OFSOCN_pdf_1_page1_image0001.png"
+        ]
+    },
+    {
+        "Product Name": "CONNECT EXECUTIVE TWO SEATER SOFA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Executive break-out lounge armchair",
+                "Based on metal legs and structure in electrostatic paint",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH 160x64x84 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCN_pdf_1/OFSOCN_pdf_1_page2_image0002.png"
+        ]
+    },
+    {
+        "Product Name": "CONNECT EXECUTIVE MODULAR SEATING",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Based on metal legs and structure in electrostatic paint",
+                "Plush foam inserts in seat and backrest",
+                "Formed of angular backrest",
+                "Sofa fully upholstered"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Natural leather",
+            "Artificial leather",
+            "Metal"
+        ],
+        "Dimensions": [
+            "LXWXH CUSTOM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFSOCN_pdf_1/OFSOCN_pdf_1_page3_image0003.png"
+        ]
+    }
+]

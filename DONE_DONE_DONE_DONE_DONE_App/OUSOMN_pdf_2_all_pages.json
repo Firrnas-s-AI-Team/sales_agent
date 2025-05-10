@@ -1,0 +1,28 @@
+[
+    {
+        "Product Name": "MONTAZA Sofa",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Sofa 2 seats Chassis from steel aluminum profile powder coated",
+                "Seat bottom from plywood 12 mm",
+                "Seat & back from foam density 28 kg/m^3 covered with Standard artificial leather",
+                "Fabric Back with rattan rope"
+            ]
+        },
+        "Finishes": [
+            "Fabric",
+            "Artificial leather",
+            "Steel aluminum",
+            "Rattan rope"
+        ],
+        "Dimensions": [
+            {
+                "135 X 78 X 83 CM"
+            }
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OUSOMN_pdf_2/OUSOMN_pdf_2_page1_image0001.png"
+        ]
+    }
+]

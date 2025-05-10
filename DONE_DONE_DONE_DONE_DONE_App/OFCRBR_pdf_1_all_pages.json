@@ -1,0 +1,30 @@
+[
+    {
+        "Product Name": "BIRD CREDENZA",
+        "Second Name": null,
+        "Description": {
+            "Features": [
+                "Operative credenza with rounded edges",
+                "Body made from metal in electrostatic powder coated finish",
+                "Three wooden lockable drawers",
+                "1 8mm Thick MDF faces in laminate finish",
+                "Two wooden leaves",
+                "Available with three or four compartments"
+            ]
+        },
+        "Finishes": [
+            "Laminate",
+            "Metal"
+        ],
+        "Dimensions": [
+            "140x49x61 CM",
+            "160x49x61 CM",
+            "180x49x61 CM",
+            "180x49x61 CM"
+        ],
+        "Image Paths": [
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCRBR_pdf_1/OFCRBR_pdf_1_page1_image0001.png",
+            "DONE_DONE_DONE_DONE_DONE_App/final_back/OFCRBR_pdf_1/OFCRBR_pdf_1_page1_image0002.png"
+        ]
+    }
+]
